@@ -1,4 +1,4 @@
-# Hola, soy Facundo
+# Hola, soy Facundo Granzotto
 
 ¡Bienvenido a mi perfil en GitHub! 👋 Soy un desarrollador backend con un año y medio de experiencia en tecnologías como Java, C#, JavaScript, TypeScript, Node.js y HTML.
 
@@ -15,16 +15,18 @@
 ## Tecnologías que manejo
 
 - Java
-- C#
+- Springboot
 - JavaScript
 - TypeScript
 - Node.js
-- HTML
+- HTML5 y CSS
+- React
+- MySQL
 
 ## Proyectos Destacados
 
-- 🌐 Sistema contable: proyecto para el final de dos materias de la facultad que simula un software contabla con el cual se puede interactuar con un plan de cuentas mediante un sistema CRUD, cargar y buscar asientos y acceder a la información del libro mayor de cada cuenta cargada en el plan. El cliente fue desarrollado con HTML, CSS y Js y el Backend es una API Rest con Java que interactúa con una base de datos MySQL.
-- 💡 Pedilo ya: [PROYECTO EN PROCESO: 50%] intento crear una réplica del software de 'Pedidos Ya' como desafío para ver si mis conocimientos son los suficientes para algo tan grande, las tecnologías que estoy utilizando son HTML, CSS, Js, Node.js y una API Rest similar a la del proyecto del sistema contable.
+- 🌐 Sistema contable: proyecto para el final de dos materias de la facultad que simula un software contabla con el cual se puede interactuar con un plan de cuentas mediante un sistema CRUD, cargar y buscar asientos y acceder a la información del libro mayor de cada cuenta cargada en el plan. El cliente fue desarrollado con HTML, CSS y .js y el Backend es una API Rest con Java y springboot que interactúa con una base de datos MySQL.
+- 💡 Buen sabor: réplica del software de 'Pedidos Ya' como desafío para ver si mis conocimientos son los suficientes para algo tan grande, las tecnologías que estoy utilizando son React, CSS, typescript y una API REST ccreada con springboot.
 
 ## Contacto
 
