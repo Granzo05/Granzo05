@@ -10,7 +10,7 @@
 
 ## Experiencia
 
-- 🎓 Cursando el último semestre de la Tecnicatura Superior en Programación en la Universidad Tecnológica Nacional con 16/21 materias aprobadas.
+- 🎓 Cursando el último semestre de la Tecnicatura Superior en Programación en la Universidad Tecnológica Nacional con 20/21 materias aprobadas.
 
 ## Tecnologías que manejo
 
