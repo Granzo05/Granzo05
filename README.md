@@ -10,7 +10,7 @@
 
 ## Estudios
 
-- 🎓 Técnico Superior en Programación de la Universidad Tecnológica Nacional (Regional Mendoza) en espera del título.
+- 🎓 Técnico Universitario en Programación de la Universidad Tecnológica Nacional (Regional Mendoza) en espera del título.
 
 ## Tecnologías que manejo
 
